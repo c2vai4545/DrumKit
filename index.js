@@ -1,4 +1,5 @@
 /* archivo JavaScript para index.html */
+
 var numeroBotones = document.querySelectorAll(".drum").length; //obtengo el número de botones en la página
 var audioW = new Audio("./sounds/kick-bass.mp3");
 var audioA = new Audio("./sounds/tom-1.mp3")
