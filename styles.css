@@ -17,31 +17,45 @@ footer {
 }
 
 .w {
-
+  background-image: url("./images/kick.png");
+  background-size: auto; /* esto asegura que la imagen se ajuste al tamaño del botón */
+  background-position: top left; /* esto centra la imagen en el botón */
 }
 
 .a {
-
+  background-image: url("./images/tom1.png");
+  background-size: cover; /* esto asegura que la imagen se ajuste al tamaño del botón */
+  background-position: center;
 }
 
 .s {
-
+  background-image: url("./images/tom2.png");
+  background-size: cover; /* esto asegura que la imagen se ajuste al tamaño del botón */
+  background-position: center;
 }
 
 .d {
-
+  background-image: url("./images/tom4.png");
+  background-size: cover; /* esto asegura que la imagen se ajuste al tamaño del botón */
+  background-position: top;
 }
 
 .j {
-
+  background-image: url("./images/snare.png");
+  background-size: cover; /* esto asegura que la imagen se ajuste al tamaño del botón */
+  background-position: top;
 }
 
 .k {
-
+  background-image: url("./images/tom3.png");
+  background-size: cover; /* esto asegura que la imagen se ajuste al tamaño del botón */
+  background-position: top;
 }
 
 .l {
-
+  background-image: url("./images/crash.png");
+  background-size:contain /* esto asegura que la imagen se ajuste al tamaño del botón */
+  background-position: center;
 }
 
 .set {
