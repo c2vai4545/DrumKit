@@ -1,0 +1,1 @@
+/* archivo JavaScript para index.html */
