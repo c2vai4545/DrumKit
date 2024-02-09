@@ -48,25 +48,3 @@ for (var i = 0;  i < numeroBotones; i++) {
             }
     });
 }
-
-// botonW.addEventListener("click", function(){
-//     audioW.play();
-// });
-// botonA.addEventListener("click", function(){
-//     audioA.play();
-// });
-// botonS.addEventListener("click", function(){
-//     audioS.play();
-// });
-// botonD.addEventListener("click", function(){
-//     audioD.play();
-// });
-// botonJ.addEventListener("click", function(){
-//     audioJ.play();
-// });
-// botonK.addEventListener("click", function(){
-//     audioK.play();
-// });
-// botonL.addEventListener("click", function(){
-//     audioL.play();
-// });
