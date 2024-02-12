@@ -54,8 +54,8 @@ footer {
 
 .l {
   background-image: url("./images/crash.png");
-  background-size: cover; /* esto asegura que la imagen se ajuste al tamaño del botón */
-  background-position: top;
+  background-size: contain; /* esto asegura que la imagen se ajuste al tamaño del botón */
+  background-position: center;
 }
 
 .set {
