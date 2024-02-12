@@ -3,7 +3,7 @@
 
 Se distribuyen los sonidos de la bateria en 7 botones 
 
-Al accionar, o hacer clieck en ellos estos emiten el sonido correspondiente al instrumento de la bateria  que se ha pulsado.
+Al accionar, o hacer click en ellos estos emiten el sonido correspondiente al instrumento de la bateria que se ha pulsado.
 
 ## Instalación y uso:
 1. Descargar o clonar este repositorio a tu ordenador local
