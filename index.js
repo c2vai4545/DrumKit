@@ -48,4 +48,33 @@ for (var i = 0;  i < numeroBotones; i++) {
                     break;
             }
     });
+    // Agregamos el listener para los eventos keydown
+    window.addEventListener("keydown", function(event) {
+        switch (event.key) {
+            case "w":
+                audioW.play();
+                break;
+            case "a":
+                audioA.play();
+                break;
+            case "s":
+                audioS.play();
+                break;
+            case "d":
+                audioD.play();
+                break;
+            case "j":
+                audioJ.play();
+                break;
+            case "k":
+                audioK.play();
+                break;
+            case "l":
+                audioL.play();
+                break;
+            default:
+                console.log(event.key);
+                break;
+        }
+    });
 }
